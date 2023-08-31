@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/TanPitch/TanPitch/main/github-header-image.png">
+[<img src="https://raw.githubusercontent.com/TanPitch/TanPitch/main/github-header-image.png">]
 
 👋 Hey there! I'm TanPitch, a passionate hobbyist exploring the world of coding.
 

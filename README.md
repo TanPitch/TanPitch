@@ -1,6 +1,6 @@
-# 👋 Hello, TanPitch Here!
+<img src="https://raw.githubusercontent.com/TanPitch/TanPitch/main/github-header-image.png">
 
-Welcome to my coding corner!
+👋 Hey there! I'm TanPitch, a passionate hobbyist exploring the world of coding.
 
 🌱 Self-learned coder with an insatiable curiosity for all things tech.
 
@@ -29,5 +29,6 @@ Welcome to my coding corner!
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 </div>
+<br>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TanPitch&theme=tokyo-night" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanPitch&layout=compact&theme=dark)

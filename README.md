@@ -30,5 +30,3 @@
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 </div>
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanPitch&layout=compact&theme=dark)
